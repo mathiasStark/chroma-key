@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.chroma {
+    background-color: rgb(0, 255, 0);
+    width: 1920px;
+    height: 1080px;
+}
